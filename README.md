@@ -1,1 +1,7 @@
-# image-slider
+ In this web development project, I have create an image slider using HTML, CSS, and JavaScript. An image slider is a common component used to display a series of images in a visually appealing way.
+This website project is responsive and looks good on both desktop and mobile
+ devices.
+It also have a  automatically transition to the next image after a certain interval (e.g., every 3 seconds).
+It always display the first image when the page loads.
+Allowusers to click on "Next" and "Previous" buttons to navigate through the images.
+ Loopbacktothe first image after reaching the last one.
