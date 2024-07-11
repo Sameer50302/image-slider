@@ -5,3 +5,5 @@ It also have a  automatically transition to the next image after a certain inter
 It always display the first image when the page loads.
 Allowusers to click on "Next" and "Previous" buttons to navigate through the images.
  Loopbacktothe first image after reaching the last one.
+I also included a video as a background so the website looks cool and different
+I also inculded a animation using 'clip-path' css property in automatic and manual transition
